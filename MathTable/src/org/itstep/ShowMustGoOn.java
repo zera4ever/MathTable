@@ -3,11 +3,11 @@ package org.itstep;
 public class ShowMustGoOn {
 
 	public static void main(String[] args) {
-		int number1 = 123;
-		int number2 = 15;
+		int number1 = 45;
+		int number2 = 1;
 		// задали значение числам
 		
-		String action = "*";
+		String action = "/";
 		//задали действие, меняем на деление, умножение итд
 		
 		int resultAsInt;

@@ -21,6 +21,8 @@ public class MathActionExecutor {
 		// явное преобразование типов данных
 		return result;
 		
+		
+		
 	}
 	
 	public static int getMinus(int number1, int number2){
